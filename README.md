@@ -9,7 +9,7 @@ From our line charts of root mean error squared, it is clear that the accuracy o
 
 ## Plots
 ---
-**Model Run & Verification Run for 0, 72, 144, & 240 Hours for 2m Temperature Data**
+-**Model Run & Verification Run for 0, 72, 144, & 240 Hours for 2m Temperature Data**
     -2m Temperature(°F) at Forecast Hour 0
     -2m Temperature(°F) at Forecast Hour 72
     -2m Temperature(°F) at Forecast Hour 144
@@ -18,29 +18,29 @@ From our line charts of root mean error squared, it is clear that the accuracy o
     -2m Temperature(°F) Verification at Forecast Hour 72
     -2m Temperature(°F) Verification at Forecast Hour 144
     -2m Temperature(°F) Verification at Forecast Hour 240
-**The Absolute Difference Between Model Run and Verification for 2m Temperature Data**
+-**The Absolute Difference Between Model Run and Verification for 2m Temperature Data**
     -2m Temperature(°F) Absolute Difference at Forecast Hour 0
     -2m Temperature(°F) Absolute Difference at Forecast Hour 72
     -2m Temperature(°F) Absolute Difference at Forecast Hour 144
     -2m Temperature(°F) Absolute Difference at Forecast Hour 240
-**Line Chart of Forecast Error (y axis) vs Time Step (x axis) for 2m Temperature Data**
+-**Line Chart of Forecast Error (y axis) vs Time Step (x axis) for 2m Temperature Data**
     -Short-Range 2m Temperature Forecast Mean Absolute Error
     -Medium-Range 2m Temperature Forecast Mean Absolute Error
     -Long-Range 2m Temperature Forecast Mean Absolute Error
-**Root Mean Squared Error (RMSE) Over Time of 2m Temperature Data**
-**Root Mean Squared Error (RMSE) Over Time of 2m Temperature Data from 2 model runs**
-**The Absolute Difference Between Model Run and Verification for 500mb Geopotential Height Data**
+-**Root Mean Squared Error (RMSE) Over Time of 2m Temperature Data**
+-**Root Mean Squared Error (RMSE) Over Time of 2m Temperature Data from 2 model runs**
+-**The Absolute Difference Between Model Run and Verification for 500mb Geopotential Height Data**
     -500mb Geopotential Height Absolute Difference at Forecast Hour 0
     -500mb Geopotential Height Absolute Difference at Forecast Hour 72
     -500mb Geopotential Height Absolute Difference at Forecast Hour 144
     -500mb Geopotential Height Absolute Difference at Forecast Hour 240
-**Line Chart of Forecast Error (y axis) vs Time Step (x axis) for 500mb Geopotential Height Data**
+-**Line Chart of Forecast Error (y axis) vs Time Step (x axis) for 500mb Geopotential Height Data**
     -Short-Range 500mb Geopotential Height Forecast Mean Absolute Error
     -Medium-Range 500mb Geopotential Height Forecast Mean Absolute Error
     -Long-Range 500mb Geopotential Height Forecast Mean Absolute Error
-**Root Mean Squared Error (RMSE) Over Time of 500mb Geopotential Height Data**
-**Root Mean Squared Error (RMSE) Over Time of 500mb Geopotential Height Data from 2 model runs**
-**Forecast Error Over Time**
+-**Root Mean Squared Error (RMSE) Over Time of 500mb Geopotential Height Data**
+-**Root Mean Squared Error (RMSE) Over Time of 500mb Geopotential Height Data from 2 model runs**
+-**Forecast Error Over Time**
 
 ## Challenges
 ---
