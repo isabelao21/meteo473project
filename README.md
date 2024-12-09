@@ -46,4 +46,6 @@ From our line charts of root mean error squared, it is clear that the accuracy o
 ---
 We faced challenges predominately with storing our data. We certainly learned the value of compartmentalizing our process. By this I mean, we put our imports and data downloads in their own cells and were extremely concious of not rerunning unnecessary cells. Not only is it a poor use of time, but excessive data download sometimes hindered our process by writing over itself until failure sometimes. Overall, we became a lot more detailed in our formating as we progressed in this project. 
 
-
+## License
+---
+[MIT](https://choosealicense.com/licenses/mit/)
